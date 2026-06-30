@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Admin/Desktop/Java/VuGym/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/VuGym/src/java/Model/KhachHang.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/VuGym/src/java/Model/NguoiDung.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/VuGym/src/java/controller/LoginServlet.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/VuGym/src/java/controller/LogoutServlet.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/VuGym/src/java/controller/KhachHangServlet.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/VuGym/web/login.jsp</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/VuGym/src/java/Dao/NguoiDungDAO.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/VuGym/web/main.jsp</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/VuGym/src/java/controller/HLVServlet.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/VuGym/src/java/KetNoi/DBConnect.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/VuGym/src/java/Dao/KhachHangDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
